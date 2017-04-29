@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('myApp.view2',[])
+angular.module('myApp.myAlert',[])
     .component('myAlert', {
       templateUrl: 'components/alert/alert.html',
       controller: 'AlertDemoCtrl'

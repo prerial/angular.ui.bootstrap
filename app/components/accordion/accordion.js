@@ -1,5 +1,5 @@
 'use strict';
-angular.module('myApp.view1',[])
+angular.module('myApp.myAccordion',[])
     .component('myAccordion', {
       templateUrl: 'components/accordion/accordion.html',
       controller: 'AccordionDemoCtrl'
